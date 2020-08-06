@@ -1,0 +1,1 @@
+web: gunicorn Pratyush.wsgi --log-file -
